@@ -1,0 +1,24 @@
+{
+  "name": "react-usefscrn",
+  "version": "1.0.0",
+  "description": "React fullscreen API hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidKH/react-usefscrn.git"
+  },
+  "keywords": [
+    "react",
+    "fullscreen",
+    "hook"
+  ],
+  "author": "SidKH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidKH/react-usefscrn/issues"
+  },
+  "homepage": "https://github.com/SidKH/react-usefscrn#readme"
+}
